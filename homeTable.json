@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5de41a3176df0ff03544ccae"},"teamName":"Реал Мадрид","games":14.0,"won":9.0,"draw":4.0,"lost":1.0,"goalsScored":30.0,"goalsMissed":11.0,"points":31.0}
+{"_id":{"$oid":"5de41b8d76df0ff03544ccaf"},"teamName":"Севілья","games":15.0,"won":9.0,"draw":3.0,"lost":3.0,"goalsScored":19.0,"goalsMissed":14.0,"points":30.0}
